@@ -25,7 +25,7 @@ Delete if there is anything inside
 Then copy and paste my .jsonc file for fastfetch
 
 
-⚠️ Don't forget the change the file paths to your!!
+⚠️ Don't forget the change the file paths to yours!!
 
 <br>
 <br>
@@ -37,4 +37,4 @@ If you want to create your own original logo go to http://shabzefilters.netlify.
 Then simply update the logo path in your config.jsonc file
 
 
-⚠️ Don't forget the change the file paths to your!!
+⚠️ Don't forget the change the file paths to yours!!
