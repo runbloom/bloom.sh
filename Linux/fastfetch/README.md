@@ -5,6 +5,8 @@ It is written mainly in C, with a focus on performance and customizability.
 
 Currently, it supports Linux, macOS, Windows 7+, Android, FreeBSD, OpenBSD, NetBSD, DragonFly, Haiku, and illumos (SunOS).
 
+<br>
+<br>
 
 # How to download and customise fastfetch?
 
