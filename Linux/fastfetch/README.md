@@ -1,11 +1,13 @@
 # How to download and customise fastfetch?
+<br>
+<br>
 
 ## Download:
-(change the download command based on your distro)
+*(Change the download command based on your distro)*
 
-
-``` sudo dnf isntall fastfetch ``` 
-
+```bash
+sudo dnf isntall fastfetch
+```
 
 Then just type fastfetch on your terminal!
 
