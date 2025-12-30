@@ -2,7 +2,11 @@
 
 ## Download:
 (change the download command based on your distro)
+
+
 ``` sudo dnf isntall fastfetch ``` 
+
+
 Then just type fastfetch on your terminal!
 
 
