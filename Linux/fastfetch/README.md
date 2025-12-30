@@ -1,6 +1,4 @@
 # How to download and customise fastfetch?
-<br>
-<br>
 
 ## Download:
 *(Change the download command based on your distro)*
@@ -11,7 +9,8 @@ sudo dnf isntall fastfetch
 
 Then just type fastfetch on your terminal!
 
-
+<br>
+<br>
 ## Customisation:
 Open the config file with your preffered file editor for me, it's kwrite:
 
@@ -27,7 +26,8 @@ Then copy and paste my .jsonc file for fastfetch
 
 ⚠️ Don't forget the change the file paths to your!!
 
-
+<br>
+<br>
 ## Creating a custom ASCII art:
 If you want to create your own original logo go to http://shabzefilters.netlify.app and make your own one
 
