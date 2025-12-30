@@ -30,6 +30,8 @@ ncdu /
 ```
 You can move through your folders via arrow keys
 
+<br>
+
 ## Keybinds
 ~ To delete: 'd'
 
