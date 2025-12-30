@@ -4,7 +4,7 @@
 *(Change the download command based on your distro)*
 
 ```bash
-sudo dnf isntall fastfetch
+sudo dnf install fastfetch
 ```
 
 Then just type fastfetch on your terminal!
