@@ -11,8 +11,9 @@ Then just type fastfetch on your terminal!
 
 <br>
 <br>
+
 ## Customisation:
-Open the config file with your preffered file editor for me, it's kwrite:
+Open the config file with your preffered file editor, mine is kwrite:
 
 
 kwrite ~/.config/fastfetch/config.jsonc
@@ -28,6 +29,7 @@ Then copy and paste my .jsonc file for fastfetch
 
 <br>
 <br>
+
 ## Creating a custom ASCII art:
 If you want to create your own original logo go to http://shabzefilters.netlify.app and make your own one
 
