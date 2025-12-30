@@ -9,7 +9,7 @@ Open your PowerShell
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 ```
 Then run
-
+<br>
 
 Then close the PowerShell and relaunch it
 
