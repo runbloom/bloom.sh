@@ -1,3 +1,15 @@
+# What is 'everything'
+We all can agree that Windows' own tools for searching documents are simply useless
+
+
+This lightweight software scans all your computer in a very short time
+
+
+Then let's you search any type of document within your system
+
+<br>
+<br>
+
 # How to download and use 'everyhting'
 
 ## Download
