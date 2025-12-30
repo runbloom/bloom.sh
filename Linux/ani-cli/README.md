@@ -1,3 +1,16 @@
+# What is ani-cli
+ani-cli is a lightweight anime watching tool.
+
+
+It gets rid of ads, trackers and constant buffering.
+
+
+You could download any anime and view your watch history.
+
+<br>
+<br>
+
+
 # How to download and use ani-cli
 
 ## Enable COPR
