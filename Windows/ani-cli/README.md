@@ -9,6 +9,7 @@ Open your PowerShell
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 ```
 Then run
+
 <br>
 
 Then close the PowerShell and relaunch it
@@ -31,6 +32,7 @@ scoop install git; scoop bucket add extras; scoop install mpv fzf ani-cli
 ```
 Then run
 
+<br>
 
 You may also need to install some further packages
 ```bash
