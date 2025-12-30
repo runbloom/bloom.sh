@@ -1,7 +1,7 @@
 # How to download and use 'everyhting'
 
 ## Download
-go to this site voidtools.com
+go to this site https://www.voidtools.com
 
 
 Click on the 'Download Installer 64-bit'
